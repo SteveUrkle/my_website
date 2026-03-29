@@ -8,7 +8,7 @@ Embedded audio
 
 How to Use:
 Visit the website:
-https://steveurkle.github.io/my_website/Website/
+https://steveurkle.github.io/my_website/
 
 Tech used:
 HTML
